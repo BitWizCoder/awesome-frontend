@@ -17,6 +17,7 @@ A curated list of frontend development resources, libraries, and tools to enhanc
 - [Ant Design](https://ant.design/)
 - [React Suite (rsuitejs)](https://rsuitejs.com/)
 - [Blueprint JS](https://blueprintjs.com/)
+- [tailbits](https://www.tailbits.com/components/free)
 
 #### Icons
 
